@@ -1,0 +1,19 @@
+.app {
+    background-color: white;
+    color: black;
+    height: 100dvh;
+    width: 100dvh;
+    display: flex;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s;
+}
+.app.dark {
+    background-color: black;
+
+}
+button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
