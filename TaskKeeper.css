@@ -1,0 +1,21 @@
+.remove-btn{
+    background-color: #535bf2;
+}
+
+.addToTaskbox{
+    border-style: groove;
+    border-color: purple;
+    margin-bottom: 10px;
+}
+.addToTask{
+    background-color: #646cff;
+    margin-left: 5px;
+}
+.taskWords{
+    background-color: #747bff;
+    color: black;
+    border-style: groove;
+    border-color: purple;
+    width: 300px;
+}
+
